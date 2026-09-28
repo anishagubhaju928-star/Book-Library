@@ -68,7 +68,7 @@ Open the local URL shown in the terminal, normally `http://localhost:5173`. Rest
 ![Home page](<home.png>)
 
 ### Explore page
-![Explore page with featured books and search](<explore.png>)
+![Explore page](<explore.png>)
 
 ### Book details page
 ![Book details page](<details.png>)

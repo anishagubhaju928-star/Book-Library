@@ -65,16 +65,19 @@ Open the local URL shown in the terminal, normally `http://localhost:5173`. Rest
 ## Screenshots
 
 ### Home page
-![Home page](<home.png>)
+![Home page](screenshots/home.png)
 
 ### Explore page
 ![Explore page](<explore.png>)
 
+![Explore page ](screenshots/explore.png)
+
+
 ### Book details page
-![Book details page](<details.png>)
+![Book details page](screenshots/details.png)
 
 ### My To-Read list
-![My To-Read list](<saved-list.png>)
+![My To-Read list](screenshots/saved-list.png)
 
 ## Known Limitations
 
